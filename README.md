@@ -23,14 +23,14 @@ Repositori ini berisi implementasi proyek **Basic HTML Website** dari [roadmap.s
 
 1. Clone repositori ini:
 ```bash
-git clone https://github.com/username/basic-html-website.git
+git clone https://github.com/bagusadesaputra/Basic-HTML-Website.git
 
 ```
 
 
 2. Buka direktori proyek:
 ```bash
-cd basic-html-website
+cd Basic-HTML-Website
 
 ```
 
